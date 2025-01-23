@@ -1,0 +1,30 @@
+/* li{
+    color:red;
+} */
+ /* ul li{
+    color: pink;
+ }
+ ol li{
+    color:darkgreen;
+ } */
+ /* .red{
+    color:blue;
+  }
+  .akua li,h2,ul {
+    color:chartreuse;
+  } */
+   /* #wrapper>section>ul>h1{
+    color:rgb(6, 247, 58);
+   } */
+    /* h1~ p {
+        color:orange;
+    }
+    h1~a{
+        color:blueviolet;
+    }
+    h1+p{
+        color:aqua;
+    } */
+     *{
+        color:blue
+     }
